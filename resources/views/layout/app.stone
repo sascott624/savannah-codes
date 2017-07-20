@@ -1,0 +1,14 @@
+@extends('layout.master')
+
+@scss('app')
+@babel('app')
+
+@section('header')
+	<header>
+		header
+	</header>
+@endsection
+
+@section('footer')
+	<footer>footer</footer>
+@endsection

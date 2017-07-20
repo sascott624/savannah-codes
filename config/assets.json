@@ -1,0 +1,13 @@
+{
+
+	"compilers": {
+
+		"scss": {
+			"includePaths": [
+				"{{ node_modules }}/normalize.css",
+			]
+		}
+
+	}
+
+}

@@ -1,0 +1,9 @@
+@extends('layout.app')
+
+@babel('welcome')
+
+@scss('welcome')
+
+@section('content')
+  <p>content</p>
+@endsection
